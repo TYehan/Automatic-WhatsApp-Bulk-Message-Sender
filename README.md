@@ -37,7 +37,7 @@
 
 ## How to Use
 
-1. **Download the Executable**: [Download Here](path_to_exe_file)
+1. **Download the Executable**: [Download Here]([path_to_exe_file](https://github.com/TYehan/Automatic-WhatsApp-Bulk-Message-Sender/releases/tag/v1.0))
 2. **Run the Application**: Double-click the executable file to launch the application.
 3. **Customize Your Message**: Enter the message you want to send.
 4. **Set the Frequency**: Choose how many times you want the message to be sent.
