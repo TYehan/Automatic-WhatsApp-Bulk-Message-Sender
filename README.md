@@ -57,3 +57,5 @@ This software is proprietary and its source code is not publicly available. Modi
 ## ⭐Support
 
 If you find this tool useful, please consider giving it a star ⭐. Your support is greatly appreciated!
+
+<img width=100% title="TYehan" alt="TYehan" target ="https://tyehan.github.io/Tharindu-Yehan/" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=100&section=footer&text=WhiteGhost&fontSize=11&fontColor=fff&animation=twinkling&fontAlignY=85"/>
