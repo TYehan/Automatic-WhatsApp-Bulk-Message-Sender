@@ -33,7 +33,7 @@
 
 ## ⭐Prerequisites
 <p>
-    Operating System: Windows 
+    Operating System: Windows 7 or later
 </p>
 
 ## ⭐How to Use
