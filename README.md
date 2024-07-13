@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb49936f-f997-45d9-87b2-208c6aadf41e" alt="Automatic-WhatsApp-Bulk-Message-Sender Logo" align = "" width="200"/>
+  <img src="https://github.com/user-attachments/assets/bb49936f-f997-45d9-87b2-208c6aadf41e" alt="Automatic-WhatsApp-Bulk-Message-Sender Logo" width="200"/>
 </p>
 
 <h2 align="center">Automated GUI Cursor Typing Tool</h1>
@@ -25,10 +25,10 @@
 - **Certified Software**: Certified for quality and security.
 
 ## ⭐Screenshots
-  <img src="https://github.com/user-attachments/assets/e4dd2eef-c014-4f96-86b7-035d6548c703" alt="Automatic-WhatsApp-Bulk-Message-Sender Logo" align = "" width="350"/>
-  <img src="https://github.com/user-attachments/assets/9f2d738f-0285-4a28-a185-0aabdd051d1e" alt="Automatic-WhatsApp-Bulk-Message-Sender Logo" align = "" width="400"/>
-  <img src="https://github.com/user-attachments/assets/bdcbe0ed-1c96-4b0b-b4c5-83101e8a74f5" alt="Automatic-WhatsApp-Bulk-Message-Sender Logo" align = "" width="300"/>
-  <img src="https://github.com/user-attachments/assets/bd33a755-b479-4877-a7d8-6cf60863a515" alt="Automatic-WhatsApp-Bulk-Message-Sender Logo" align = "" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e4dd2eef-c014-4f96-86b7-035d6548c703" alt="Automatic-WhatsApp-Bulk-Message-Sender Logo" width="350"/>
+  <img src="https://github.com/user-attachments/assets/9f2d738f-0285-4a28-a185-0aabdd051d1e" alt="Automatic-WhatsApp-Bulk-Message-Sender Logo" width="400"/>
+  <img src="https://github.com/user-attachments/assets/bdcbe0ed-1c96-4b0b-b4c5-83101e8a74f5" alt="Automatic-WhatsApp-Bulk-Message-Sender Logo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/bd33a755-b479-4877-a7d8-6cf60863a515" alt="Automatic-WhatsApp-Bulk-Message-Sender Logo" width="200"/>
 
 
 ## ⭐Prerequisites
